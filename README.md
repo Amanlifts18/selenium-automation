@@ -22,25 +22,25 @@ The framework automates login functionality of [Practice Test Automation](https:
 
 com.selenium/
 ├── src/
-│   ├── main/
-│   │   └── java/
-│   │       └── pages/
-│   │           └── LoginPage.java
-│   └── test/
-│       └── java/
-│           ├── base/
-│           │   └── BaseTest.java
-│           ├── tests/
-│           │   └── LoginTest.java
-│           └── utils/
-│               ├── ConfigReader.java
-│               ├── ExtentManager.java
-│               ├── TestListener.java
-│               └── WaitUtils.java
+│ ├── main/
+│ │ └── java/
+│ │ └── pages/
+│ │ └── LoginPage.java
+│ └── test/
+│ └── java/
+│ ├── base/
+│ │ └── BaseTest.java
+│ ├── tests/
+│ │ └── LoginTest.java
+│ └── utils/
+│ ├── ConfigReader.java
+│ ├── ExtentManager.java
+│ ├── TestListener.java
+│ └── WaitUtils.java
 └── src/
-    └── test/
-        └── resources/
-            └── config.properties
+└── test/
+└── resources/
+└── config.properties
 
 
 
